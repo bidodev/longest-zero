@@ -23,7 +23,7 @@ longestZero("11111") ➞
 ## Solutions
 
 - [First Solution]()
-  ![Imgur](https)
+  ![Imgur]()
 
   ```javascript
   ```
@@ -32,14 +32,10 @@ longestZero("11111") ➞
   ![Imgur]()
 
   ```javascript
-  // 1. In this solution we use the method build-in replace() and regex to filter out all the vowels.
   ```
 
 - [Third Solution]()
   ![Imgur]()
 
   ```javascript
-  // 1. In this solution we also have 2 functions. The first one validated if is or not a vowel.
-  // 2. The second function push into the array result all not vowels.
-  // 3. At the end we use join to have a string.
   ```
