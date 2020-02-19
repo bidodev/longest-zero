@@ -22,21 +22,15 @@ longestZero("11111") ➞
 
 ## Solutions
 
-[First Solution](../tree/first-solutio)
+[First Solution](../tree/first-solution)
 
 ![Imgur](https://i.imgur.com/dfu6eEB.png)
 
 ```javascript
 ```
 
-[Second Solution](../tree/first-solutio)
+[Second Solution](../tree/second-solution)
 ![Imgur](https://i.imgur.com/UDNMlM7.png)
-
-```javascript
-```
-
-[Third Solution]()
-![Imgur]()
 
 ```javascript
 ```
