@@ -10,6 +10,6 @@ longestZero = (binaryNumber) => {
   return result;
 };
 
-longestZero("01100001011000");
-longestZero("1001001000");
-longestZero("11111");
+console.log(longestZero("01100001011000"));
+console.log(longestZero("1001001000"));
+console.log(longestZero("11111"));
