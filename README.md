@@ -29,7 +29,7 @@ longestZero("11111") ➞
 ```
 
 [Second Solution](../tree/first-solutio)
-[Imgur](https://i.imgur.com/UDNMlM7.png)
+![Imgur](https://i.imgur.com/UDNMlM7.png)
 
 ```javascript
 ```
