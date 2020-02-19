@@ -28,14 +28,14 @@ longestZero("11111") ➞
 ```javascript
 ```
 
-- [Second Solution]()
-  ![Imgur]()
+[Second Solution](../tree/first-solutio)
+[Imgur](https://i.imgur.com/UDNMlM7.png)
 
-  ```javascript
-  ```
+```javascript
+```
 
-- [Third Solution]()
-  ![Imgur]()
+[Third Solution]()
+![Imgur]()
 
-  ```javascript
-  ```
+```javascript
+```
